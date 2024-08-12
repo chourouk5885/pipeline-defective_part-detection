@@ -1,0 +1,19 @@
+names:
+- air-hole
+- bite-edge
+- broken arc
+- broken-arc
+- crack
+- overlap
+- slag-inclusion
+- unfused
+nc: 8
+roboflow:
+  license: CC BY 4.0
+  project: weld-defect-3x3rl
+  url: https://universe.roboflow.com/matin-hoobu/weld-defect-3x3rl/dataset/3
+  version: 3
+  workspace: matin-hoobu
+test: test/images
+train: train/images
+val: valid/images
